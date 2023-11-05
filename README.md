@@ -1,6 +1,7 @@
 # OS-EX.8-IMPLEMENTATION-OF-BANKER-S-ALGORITHM
 
-# ATo write a C program to implement Bankers Algorithm to avoid Deadlock.IM:
+# AIM:
+To write a C program to implement Bankers Algorithm to avoid Deadlock.IM:
 
 # ALGORITHM:
 
